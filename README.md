@@ -18,7 +18,7 @@ Sessions folder consists of videos, links, notebooks etc that are discussed in t
 - [Facebook Group](https://www.facebook.com/groups/#/)
 - [Twitter](https://twitter.com/#)
 
-<h3><a href="https://github.com/aidevelopersboise/workshop-image-gallery/tree/master/imgs" target="_blank">Workshop Image Gallery</a></h3>
+<h3><a href="https://github.com/dnzengou/AI-Rwanda-meetup/#" target="_blank">Workshop Image Gallery</a> (yet to be added!)</h3>
 
 
 # Study and Learning Resources
