@@ -40,6 +40,9 @@ https://github.com/dnzengou/AI-Rwanda-meetup/blob/master/README.md
 ### Linear Algebra
 [An interesting playlist by 3Blue1Brown - Linear algebra tutorial](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Linear algebra will be required for future sessions)
 
+### AI for everyone
+[Elements of AI](https://docs.google.com/presentation/d/1aI_iMSnQomuiZe7ZcUEcV4EmUeJqzo0zFc6-TEVbZiU/)
+
 ### My favorite applications :)
 #### [Text Analytics with R | Sentiment Analysis with R | Part 1 | Basics (video)](https://youtu.be/y21yWgMWMc8)
 #### [Sentiment analysis with tidy data (tutorial)](https://www.tidytextmining.com/sentiment.html)
