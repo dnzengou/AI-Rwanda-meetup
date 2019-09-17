@@ -17,6 +17,9 @@ It is also possible to run it all on the cloud via google's colab https://colab.
 If not, please create a github account and ask to join or follow this repository where initial sources are stored (taken from AI Saturdays Lagos and Bagalore, ML developers repos, Elements of AI etc)
 https://github.com/dnzengou/AI-Rwanda-meetup/blob/master/README.md
 
+3. Go to github and/or fork or join the organization
+https://github.com/dnzengou/AI-Rwanda-meetup/blob/master/README.md
+
 <hr>
 
 # Additional materials:
@@ -38,9 +41,9 @@ https://github.com/dnzengou/AI-Rwanda-meetup/blob/master/README.md
 [An interesting playlist by 3Blue1Brown - Linear algebra tutorial](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Linear algebra will be required for future sessions)
 
 ### My favorite applications :)
-[Text Analytics with R | Sentiment Analysis with R | Part 1 | Basics (video)](https://youtu.be/y21yWgMWMc8)
-[Sentiment analysis with tidy data (tutorial)](https://www.tidytextmining.com/sentiment.html)
-[Tutorial: Sentiment Analysis in R | Kaggle](https://www.kaggle.com › rtatman › tutorial-sentiment-analysis-in-r)
-[Python for NLP: Sentiment Analysis with Scikit-Learn](https://stackabuse.com › python-for-nlp-sentiment-analysis-with-scikit-learn))
-[Python NLTK sentiment analysis | Kaggle](https://www.kaggle.com › ngyptr › python-nltk-sentiment-analysis)
-[Tweet Visualization and Sentiment Analysis in Python - Full Tutorial](https://youtu.be/1gQ6uG5Ujiw)
+#### [Text Analytics with R | Sentiment Analysis with R | Part 1 | Basics (video)](https://youtu.be/y21yWgMWMc8)
+#### [Sentiment analysis with tidy data (tutorial)](https://www.tidytextmining.com/sentiment.html)
+#### [Tutorial: Sentiment Analysis in R | Kaggle](https://www.kaggle.com › rtatman › tutorial-sentiment-analysis-in-r)
+#### [Python for NLP: Sentiment Analysis with Scikit-Learn](https://stackabuse.com › python-for-nlp-sentiment-analysis-with-scikit-learn))
+#### [Python NLTK sentiment analysis | Kaggle](https://www.kaggle.com › ngyptr › python-nltk-sentiment-analysis)
+#### [Tweet Visualization and Sentiment Analysis in Python - Full Tutorial](https://youtu.be/1gQ6uG5Ujiw)
