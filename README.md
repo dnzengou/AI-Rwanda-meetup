@@ -24,7 +24,7 @@ Sessions folder consists of videos, links, notebooks etc that are discussed in t
 # Study and Learning Resources
 
 - Session 0 (September 18, 2019) - Inspired by AI6 Orientation
-## Possible "curriculum" to follow in parallelw:
+## Possible "curriculum" to follow in parallel (if curious + have time):
 [[Carnegie Mellon University Deep Learning youtube channel](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA)],
 [[Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)],
 [["Learn Machine Learning in 3 Months" by Siraj Raval](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)]
