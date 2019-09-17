@@ -51,6 +51,10 @@ Sessions folder consists of videos, links, notebooks etc that are discussed in t
     - Simple plots to get a glimpse of Loss Function in Logistic Regression
     - Demonstration (muffins vs cupcake classification using SVM)
 - [Session 6 (date yet to be defined)](session6) [[link to add](#)] [Preliminary Study: [CS221n Chapter 2](https://www.youtube.com/watch?v=OoUX-nOEjG0), [CS221n Chapter 3](https://www.youtube.com/watch?v=h7iBpEHGVNc&index=3&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
+    - [[Deep Learning and Neural Network](https://drive.google.com/open?id=1WZr7ZCEm-GawSdfezWiDS9PY8dJ4Nr4P)], Prof. Bernhard Mehlig
+    - [[Reading #1: Neural Networks, A Comprehensive Foundation](https://drive.google.com/open?id=1l5Qo1hHeaUBa_kROyS2hAmMZWVPmnhmj)]
+    - [[Reading #2: Neural Network and Learning Machines. Simon Haykin, Third edition](https://drive.google.com/open?id=1UPxpbykYf8W5CbzxGqm6zomoKGzgj2ns)]
+    - [[Reading #3: Artificial Neural Networks. Bernhard Mehlig](https://drive.google.com/open?id=19EvwNLEFV9cA4_Y0R10062UYSffi1kzL)],
     - [Chapter 4](https://www.youtube.com/watch?v=d14TUNcbn1k&index=4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Introduction to Neural Networks
     - [Chapter 5](https://www.youtube.com/watch?v=bNb2fEVKeEo&index=5&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Convolutional Neural Networks (CNNs)
     - Notes on lecture 2 and simple code implementation of K-NN algorithm 
