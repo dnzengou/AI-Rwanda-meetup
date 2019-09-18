@@ -43,6 +43,9 @@ https://github.com/dnzengou/AI-Rwanda-meetup/blob/master/README.md
 ### AI for everyone
 [Elements of AI](https://docs.google.com/presentation/d/1aI_iMSnQomuiZe7ZcUEcV4EmUeJqzo0zFc6-TEVbZiU/)
 
+### Zoom meeting url for interactive distant-learning
+https://zoom.us/j/4818859701
+
 ### My favorite applications :)
 #### [Text Analytics with R | Sentiment Analysis with R | Part 1 | Basics (video)](https://youtu.be/y21yWgMWMc8)
 #### [Sentiment analysis with tidy data (tutorial)](https://www.tidytextmining.com/sentiment.html)
