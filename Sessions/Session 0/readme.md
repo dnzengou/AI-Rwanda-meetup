@@ -1,4 +1,4 @@
-# Week 0 & 1
+# Week 0
 In preparation of tomorrow (test) meetup, please pay attention to the following:
 
 1. If you can (access a fair laptop with a good internet connection), download prior to coming
@@ -29,7 +29,7 @@ https://github.com/dnzengou/AI-Rwanda-meetup/blob/master/README.md
 `Coldfusion channel`
 
 ### Google Colab Tutorial
-[Google Colab tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) 
+[YouTube](https://youtu.be/f1UK8KPt-KU) 
 
 #### Github Crash Course for beginners.
 [link](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
