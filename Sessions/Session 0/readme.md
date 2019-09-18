@@ -43,6 +43,11 @@ https://github.com/dnzengou/AI-Rwanda-meetup/blob/master/README.md
 ### AI for everyone
 [Elements of AI](https://docs.google.com/presentation/d/1aI_iMSnQomuiZe7ZcUEcV4EmUeJqzo0zFc6-TEVbZiU/)
 
+### Introduction What Is Machine Learning
+[Machine Learning | Andrew Ng ](https://youtu.be/PPLop4L2eGk)
+
+
+
 ### Zoom meeting url for interactive distant-learning
 https://zoom.us/j/4818859701
 
