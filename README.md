@@ -30,7 +30,8 @@ Sessions folder consists of videos, links, notebooks etc that are discussed in t
 [["Learn Machine Learning in 3 Months" by Siraj Raval](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)]
 <hr>
 
-- [Session 0 & 1 (September 18, 2019)](session1) <br>  <-- We're here
+- [Session 0 (September 18, 2019)](session0)  <-- We're here 
+- [Session 1 (date yet to be defined)](session1) <br>
 [[link to add](#)] [[Preliminary Readings](https://docs.google.com/document/d/13kwEZpqzB9R2ezj5WW3bR2jPbVBN_yOrJl_LSs3rgoU/)]
     - Python, Installation and Environment Setup
     - Introduction to Python
